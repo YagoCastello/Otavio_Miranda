@@ -6,6 +6,8 @@ nome = 'Luiz Otávio'  # Iteráveis
 #      1110987654321
 tamanho_nome = len(nome)
 print(nome)
+print(nome)
+
 print(tamanho_nome)
 print(nome[3])
 
