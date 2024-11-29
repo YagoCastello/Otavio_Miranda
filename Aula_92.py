@@ -6,6 +6,10 @@ https://en.wikipedia.org/wiki/Double-precision_floating-point_format
 https://docs.python.org/pt-br/3/tutorial/floatingpoint.html
 """
 import decimal
+N1 = 0.1
+N2 = 0.7
+N3 = N1 + N2
+print(N3)
 numero_1 = decimal.Decimal('0.1')
 numero_2 = decimal.Decimal('0.7')
 numero_3 = numero_1 + numero_2
